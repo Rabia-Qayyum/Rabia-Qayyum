@@ -1,5 +1,5 @@
  Hi there 👋
-Computer Science student building projects in C++, Python and AI.
+My GitHub Profile README
 
 
 <!--
