@@ -1,4 +1,6 @@
-## Hi there 👋
+ Hi there 👋
+Computer Science student building projects in C++, Python and AI.
+
 
 <!--
 **Rabia-Qayyum/Rabia-Qayyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
